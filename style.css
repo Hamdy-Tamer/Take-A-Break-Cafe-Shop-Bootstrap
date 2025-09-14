@@ -371,8 +371,7 @@ section{
 @media (max-width: 992px){
     .gallery-img{
         object-fit: fill;
-        height: 250px;
-        padding: 0;
+        height: 200px;
     }
 }
 
